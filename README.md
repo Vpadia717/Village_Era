@@ -56,12 +56,12 @@ Reference Code :
     }
 ```
 Reference Images : <br>
-	<br><img src="app/src/main/res/drawable/Splash.svg" alt="drawing" height="450"/>
-	<img src="app/src/main/res/drawable/Login.svg" alt="drawing" height="450"/>
-	<img src="app/src/main/res/drawable/SignUp.svg" alt="drawing" height="450"/>
-	<br><img src="app/src/main/res/drawable/Dashboard.svg" alt="drawing" height="450"/>
-	<img src="app/src/main/res/drawable/Post Creation.svg" alt="drawing" height="450"/>
-	<img src="app/src/main/res/drawable/View Post.svg" alt="drawing" height="450"/>
+	<br><img src="app/src/main/res/drawable/Splash.svg" alt="drawing" width="250" height="450"/>
+	<img src="app/src/main/res/drawable/Login.svg" alt="drawing" width="250" height="450"/>
+	<img src="app/src/main/res/drawable/SignUp.svg" alt="drawing" width="250" height="450"/>
+	<br><img src="app/src/main/res/drawable/Dashboard.svg" alt="drawing" width="250" height="450"/>
+	<img src="app/src/main/res/drawable/Post Creation.svg" alt="drawing" width="250" height="450"/>
+	<img src="app/src/main/res/drawable/View Post.svg" alt="drawing" width="250" height="450"/>
 	
 This is the README file for Village Era repository. [^1]
 
