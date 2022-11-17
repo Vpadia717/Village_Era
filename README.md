@@ -2,7 +2,7 @@
 
 Here we have made a Village helping application using java libraries like **Lottie** or **_TensorFlow Lite_**.
 
-<br><img src="app/src/main/res/drawable-v24/villageera.svg" alt="drawing" width="200" height="450"/>
+<br><img src="app/src/main/res/drawable/villageera.svg" alt="drawing" width="200" height="450"/>
 
 It is a *Villager supporting app* where the user will get **_A right for making post regarding the complaints in the village also they can suggest or advice_**.
 
