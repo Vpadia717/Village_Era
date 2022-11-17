@@ -61,7 +61,7 @@ Reference Images : <br>
 	<img src="app/src/main/res/drawable/SignUp.svg" alt="drawing" height="450"/>
 	<br><img src="app/src/main/res/drawable/Dashboard.svg" alt="drawing" height="450"/>
 	<img src="app/src/main/res/drawable/Post Creation.svg" alt="drawing" height="450"/>
-	<img src="app/src/main/res/drawable/View Post.svg" alt="drawing" height="450"/>
+	<img src="app/src/main/res/drawable/View Post.svg" alt="drawing" width="200" height="450"/>
 	
 This is the README file for Village Era repository. [^1]
 
